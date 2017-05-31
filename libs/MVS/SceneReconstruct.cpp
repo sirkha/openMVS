@@ -57,7 +57,7 @@ using namespace MVS;
 
 // uncomment to use IBFS algorithm for max-flow
 // (faster, but not clear license policy)
-#define DELAUNAY_MAXFLOW_IBFS
+// #define DELAUNAY_MAXFLOW_IBFS
 
 
 // S T R U C T S ///////////////////////////////////////////////////
